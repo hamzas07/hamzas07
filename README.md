@@ -1,19 +1,120 @@
-<h1 align="center">Hi 👋, I'm HAMZA ANSARI</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hamza Ansari</h1>
+<h3 align="center">Full Stack Developer | Backend-Focused | AI/ML Enthusiast</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
-
-- 📫 How to reach me **hamzaansari26110@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hamza ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza ansari" height="30" width="40" /></a>
-<a href="https://instagram.com/hamzaansari_261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzaansari_261" height="30" width="40" /></a>
+<p align="center">
+I build scalable web applications and intelligent systems by combining strong backend engineering with applied AI/ML concepts to solve real-world problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzas07&show_icons=true&locale=en&layout=compact" alt="hamzas07" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzas07&show_icons=true&locale=en" alt="hamzas07" /></p>
+- 🎓 Computer Engineering undergraduate with solid CS fundamentals  
+- 💼 Full Stack Developer with experience in **production-style applications**
+- 🤖 Interested in applying **Machine Learning & AI** to real-world systems  
+- 🔍 Backend-focused engineer with strong interest in **APIs, system design & scalability**
+- 🌱 Currently strengthening expertise in **MERN Stack, Backend Engineering & Applied ML**
+
+---
+
+### 🧠 AI / ML Focus (Applied, Not Theoretical)
+
+- Experience building **ML-powered features** inside web applications  
+- Worked with **classification and prediction models** for real-world datasets  
+- Familiar with **data preprocessing, feature engineering, and model evaluation**
+- Integrated ML models with **REST APIs** for real-time predictions  
+- Exploring **AI-assisted systems, automation, and intelligent decision support**
+
+---
+
+### 🛠️ Technical Skills
+
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
+
+**Backend**
+- Node.js, Express.js
+- REST APIs, JWT Authentication
+- Secure and scalable backend design
+
+**AI / Machine Learning**
+- Python for ML development
+- Supervised Learning (Classification, Regression)
+- Model integration with backend services
+- Data handling & preprocessing
+
+**Databases**
+- MongoDB
+- MySQL
+
+**Programming Languages**
+- JavaScript
+- Python
+- Java
+- C
+
+**Tools & Platforms**
+- Git & GitHub
+- Postman
+- Figma
+- VS Code
+
+---
+
+### 📌 Featured Projects
+> *(Pinned repositories recommended)*
+
+- **AI-Enabled GLOF Early Warning System**  
+  Applied ML models for disaster-risk prediction and decision support.
+
+- **Citizen Sahyog (AI-Assisted Platform)**  
+  Issue reporting system with intelligent insights and workflow automation.
+
+- **Real-Time Location Tracking App**  
+  Live tracking system with real-time data handling.
+
+- **Custom npm Package**  
+  Open-source Node.js package with **280+ weekly downloads**.
+
+---
+
+### 📈 Highlights & Achievements
+
+- ✅ Built **ML-powered, data-driven applications**
+- ✅ Integrated ML models with full-stack systems
+- ✅ Experience in **end-to-end ML workflow** (data → model → API → UI)
+- ✅ Strong foundation in **software engineering + applied AI**
+- ✅ Published and maintained open-source software
+
+---
+
+### 🧭 Engineering & AI Mindset
+
+- Focus on **practical AI** that solves business problems  
+- Prefer **interpretable and reliable models** over black-box hype  
+- Strong believer in **clean data, clean code, and clean architecture**
+- Continuous learning through **experimentation and iteration**
+
+---
+
+### 🤝 What I’m Looking For
+
+- Full Stack / Backend / AI-adjacent Software Engineering roles  
+- Teams building **intelligent, data-driven products**
+- Opportunities to apply **AI/ML in production systems**
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/hamza-ansari-0705cr/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/hamzaansari_261" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+</p>
+
+📧 **Email:** hamzaansari26110@gmail.com
